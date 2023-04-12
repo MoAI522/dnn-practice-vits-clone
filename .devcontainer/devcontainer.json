@@ -9,5 +9,6 @@
         "github.copilot"
       ]
     }
-  }
+  },
+  "postAttachCommand": "git config --global --add safe.directory /workspace"
 }
